@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.topbar {
+  background: #222;
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+}
+
+.topbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topbar a:hover {
+  text-decoration: underline;
+}
